@@ -1,6 +1,28 @@
-olá, meu nome é lucas e esses são meus primeiros projetos
+🎮 Jokenpô (Pedra, Papel e Tesoura)
 
-Meu primeiro projeto foi o "jokenpo" um jogo de pedra, papel e tesoura.
-que você pode se divertir jogando contra a maquina.
+📌 Sobre o projeto
 
-Meu segundo projeto e oque eu estou mais ansioso para trabalhar na evolução é o "bancolu" que é um sistema bancario simples, que tem varias opçoes de evoluçao 
+Este é um jogo clássico de Pedra, Papel e Tesoura feito em Python, onde o jogador enfrenta o computador que escolhe aleatoriamente sua jogada.
+
+⸻
+
+⚙️ Funcionalidades
+
+* 🎮 Jogador vs Computador
+* 🤖 Escolha aleatória do computador
+* 🔁 Loop de partidas
+* ❌ Opção de sair do jogo
+
+⸻
+
+🧠 Tecnologias usadas
+
+* Python 3
+* Biblioteca random
+* Estruturas condicionais (if/elif/else)
+* Loop (while True)
+_____
+  
+🎯 Objetivo de aprendizado
+
+Esse projeto foi criado para treinar lógica de comparação, uso de aleatoriedade e estruturas de repetição em jogos simples.
